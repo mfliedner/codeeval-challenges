@@ -1,0 +1,6 @@
+.byebug_history
+*.rb?
+*.txt
+#peak_traffic*
+#string_searching*
+#tourist*
